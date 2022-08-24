@@ -1,0 +1,18 @@
+# Architecture Decision Records
+
+* [ADR MS 0001. Reporte de estado de salud en microservicios](.\doc\adr\MS-0001-reporte-de-estado-de-salud-en-microservicios.md)
+* [ADR MS 0002. Plataforma centrada en contenedores](.\doc\adr\MS-0002-plataforma-centrada-en-contenedores.md)
+* [ADR MS 0003. Empaquetado del micro servicio como imagen de contenedor](.\doc\adr\MS-0003-empaquetado-del-microservicio-como-imagen-de-contenedor.md)
+* [ADR MS 0004. Despliegue mediante pipeline](.\doc\adr\MS-0004-despliegue-mediante-pipeline.md)
+* [ADR MS 0005. Único repositorio de fuentes](.\doc\adr\MS-0005-unico-repositorio-de-fuentes.md)
+* [ADR MS 0006. Configuración elástica](.\doc\adr\MS-0006-configuracion-elastica.md)
+* [ADR MS 0007. Reporte de métricas o telemetrías](.\doc\adr\MS-0007-reporte-de-metricas-o-telemetrias.md)
+* [ADR MS 0008. Trazabilidad distribuida](.\doc\adr\MS-0008-trazabilidad-distribuida.md)
+* [ADR MS 0009. Registro de eventos](.\doc\adr\MS-0009-registro-de-eventos.md)
+* [ADR MS 0010. Tolerancia a fallas en comunicación sincrónica](.\doc\adr\MS-0010-tolerancia-a-fallas-en-comunicacion-sincronica.md)
+* [ADR MS 0011. Comunicación sincrónica o asincrónica entre microservicios](.\doc\adr\MS-0011-comunicacion-sincronica-o-asincronica-entre-microservicios.md)
+* [ADR MS 0012. Microservicios mínimamente acoplados](.\doc\adr\MS-0012-microservicios-minimamente-acoplados.md)
+* [ADR MS 0013. Microservicios altamente cohesivos basado en propósito](.\doc\adr\MS-0013-microservicios-altamente-cohesivos-basado-en-proposito.md)
+* [ADR MS 0014. Granularidad de los microservicios basada en propósito, transacciones o coreografía.](.\doc\adr\MS-0014-granularidad-de-los-microservicios-basada-en-proposito-transacciones-o-coreografia.md)
+* [ADR MS 0015. Adecuado nivel de complejidad para el dominio problema](.\doc\adr\MS-0015-adecuado-nivel-de-complejidad-para-el-dominio-problema.md)
+* [ADR MS 0016. Asociar semánticamente cada imagen con una vista en el repositorio de código fuente](.\doc\adr\MS-0016-asociar-semanticamente-cada-imagen-con-una-vista-en-el-repositorio-de-codigo-fuente.md)
