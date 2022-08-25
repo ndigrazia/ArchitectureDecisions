@@ -10,5 +10,5 @@ El objetivo del presente documento es que los usuarios/desarrolladores conozcan 
 
 # Architecture Decision Records
 
-* [Messaging](messaging\index.md)
-* [Microservicios](microservice\index.md)
+* [Messaging](messaging/index.md)
+* [Microservicios](microservice/index.md)
