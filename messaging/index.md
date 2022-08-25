@@ -1,6 +1,6 @@
 # Architecture Decision Records
 
-* [ADR MSG 0001. Actualizaciones asincrónicas mediante mensajes de comandos](.\doc\adr\MSG-0001-actualizaciones-asincronicas-mediante-mensajes-de-comandos.md)
+* [ADR MSG 0001. Actualizaciones asincrónicas mediante mensajes de comandos](doc/adr/MSG-0001-actualizaciones-asincronicas-mediante-mensajes-de-comandos.md)
 * [ADR MSG 0002. Procesamiento idempotente para mensajes almacenados en una cola de mensajería](.\doc\adr\MSG-0002-procesamiento-idempotente-para-mensajes-almacenados-en-una-cola-de-mensajeria.md)
 * [ADR MSG 0003. Eliminación de mensajes basura encolados](.\doc\adr\MSG-0003-eliminacion-de-mensajes-basura-encolados.md)
 * [ADR MSG 0004. Definición de timeouts y de reintentos demorados](.\doc\adr\MSG-0004-definicion-de-timeouts-y-de-reintentos-demorados.md)
