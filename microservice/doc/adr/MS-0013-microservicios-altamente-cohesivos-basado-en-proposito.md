@@ -1,14 +1,12 @@
 # ADR MS 0013. Microservicios altamente cohesivos basado en propósito
 
-Date: 2022-08-19
-
 ## Keywords
 
 microservicio, cohesion, simple propósito, srp.
 
 ## Status
 
-Superceded by [ADR MS 0014. Granularidad de los microservicios basada en propósito, transacciones o coreografía](MS-0014-granularidad-de-los-microservicios-basada-en-proposito-transacciones-o-coreografia.md)
+Superceded by [ADR MS 0014. Granularidad de los microservicios basada en propósito, transacciones u orquestación](MS-0014-granularidad-de-los-microservicios-basada-en-proposito-transacciones-u-orquestacion.md)
 
 ## Context
 

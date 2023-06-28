@@ -1,7 +1,5 @@
 # ADR MS 0002. Plataforma centrada en contenedores
 
-Date: 2022-08-16
-
 ## Keywords
 
 microservicio, entorno, contenedor, elástica, plataforma, orquestación, fuente.
@@ -25,4 +23,3 @@ Empleamos un entorno de orquestación centrado en contenedores para ejecutar los
 ## Consequences
 
 Requerimos el uso de un entorno de orquestación centrado en contenedores, configurar/programar el entorno de orquestación para realizar las actividades de instanciación, ejecución, balanceo y escalabilidad elástica de los microservicios.
-

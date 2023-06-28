@@ -1,7 +1,5 @@
 # ADR MSG 0009. Informe explicito del consumo del mensaje
 
-Date: 2022-08-31
-
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, consumo.

@@ -1,7 +1,5 @@
 # ADR MS 0001. Reporte de estado de salud en microservicios
 
-Date: 2022-08-16
-
 ## Keywords
 
 microservicio, prueba de vida, prueba de aceptación, liveness, readiness, reporte, estado de salud.

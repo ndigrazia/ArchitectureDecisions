@@ -1,7 +1,5 @@
 # ADR MS 0007. Reporte de métricas o telemetrías
 
-Date: 2022-08-18
-
 ## Keywords
 
 microservicio, métrica, telemetría, despliegue, soporte.
@@ -35,4 +33,3 @@ Requerimos el uso de alguna de las siguientes estrategias:
 En ambos casos se necesita un sistema de monitoreo donde se puedan analizar las métricas informadas. 
 
 Se prefiere el empleo de una malla de servicio dado que es menos invasiva a la solución de librerías o de frameworks.
-

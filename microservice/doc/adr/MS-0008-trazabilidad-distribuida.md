@@ -1,7 +1,5 @@
 # ADR MS 0008. Trazabilidad distribuida
 
-Date: 2022-08-18
-
 ## Keywords
 
 microservicio, trazabilidad, despliegue, soporte.

@@ -13,6 +13,7 @@
 * [ADR MS 0011. Comunicación sincrónica o asincrónica entre microservicios](doc/adr/MS-0011-comunicacion-sincronica-o-asincronica-entre-microservicios.md)
 * [ADR MS 0012. Microservicios mínimamente acoplados](doc/adr/MS-0012-microservicios-minimamente-acoplados.md)
 * [ADR MS 0013. Microservicios altamente cohesivos basado en propósito](doc/adr/MS-0013-microservicios-altamente-cohesivos-basado-en-proposito.md)
-* [ADR MS 0014. Granularidad de los microservicios basada en propósito, transacciones o coreografía.](doc/adr/MS-0014-granularidad-de-los-microservicios-basada-en-proposito-transacciones-o-coreografia.md)
+* [ADR MS 0014. Granularidad de los microservicios basada en propósito, transacciones u orquestación.](doc/adr/MS-0014-granularidad-de-los-microservicios-basada-en-proposito-transacciones-u-orquestacion.md)
 * [ADR MS 0015. Adecuado nivel de complejidad para el dominio problema](doc/adr/MS-0015-adecuado-nivel-de-complejidad-para-el-dominio-problema.md)
 * [ADR MS 0016. Asociar semánticamente cada imagen con una vista en el repositorio de código fuente](doc/adr/MS-0016-asociar-semanticamente-cada-imagen-con-una-vista-en-el-repositorio-de-codigo-fuente.md)
+* [ADR MS 0017. Arquitectura hexagonal para el desarrollo de microservicios](doc/adr/MS-0017-arquitectura-hexagonal-para-el-desarrollo-de-microservicios.md)

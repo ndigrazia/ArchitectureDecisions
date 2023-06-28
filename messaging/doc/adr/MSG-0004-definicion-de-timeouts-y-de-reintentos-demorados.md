@@ -1,7 +1,5 @@
 # ADR MSG 0004. Definición de timeouts y de reintentos demorados
 
-Date: 2022-08-23
-
 ## Keywords
 
 messaging, message, asincrónica, idempotente, mensaje, cola, reintento, demora, espera, tiempo.
@@ -11,6 +9,8 @@ messaging, message, asincrónica, idempotente, mensaje, cola, reintento, demora,
 Accepted
 
 Referenced by [ADR MSG 0008. Almacenamiento persistente y envió sincrónico del mensaje](MSG-0008-almacenamiento-persistente-y-envio-sincronico-del-mensaje.md)
+
+Referenced by [ADR FAAS 0004. Ejecución sincrónica de comandos sobre otras funciones](../../../function-as-a-service/doc/adr/FAAS-0004-ejecucion-sincronica-de-comandos-sobre-otras-funciones.md)
 
 ## Context
 

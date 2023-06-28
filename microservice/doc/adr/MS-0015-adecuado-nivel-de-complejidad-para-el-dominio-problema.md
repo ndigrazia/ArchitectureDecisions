@@ -1,7 +1,5 @@
 # ADR MS 0015. Adecuado nivel de complejidad para el dominio problema
 
-Date: 2022-08-19
-
 ## Keywords
 
 microservicio, complejidad ciclomática, soporte.

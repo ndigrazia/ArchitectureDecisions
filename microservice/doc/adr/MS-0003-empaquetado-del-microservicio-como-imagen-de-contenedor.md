@@ -1,7 +1,5 @@
 # ADR MS 0003. Empaquetado del micro servicio como imagen de contenedor
 
-Date: 2022-08-17
-
 ## Keywords
 
 microservicio, imagen, despliegue, contenedor.
@@ -17,6 +15,10 @@ Referenced by [ADR MS 0016. Asociar semánticamente cada imagen con una vista en
 References [ADR MS 0004. Despliegue mediante pipeline](MS-0004-despliegue-mediante-pipeline.md)
 
 References [ADR MS 0005. Único repositorio de fuentes](MS-0005-unico-repositorio-de-fuentes.md)
+
+References [DEVOPS 0007. Uso de imágenes doradas para el despliegue de las aplicaciones en la nube](../../../devops/doc/adr/DEVOPS-0007-uso-de-imagenes-doradas-para-el-despliegue-de-las-aplicaciones-en-la-nube.md)
+
+Referenced by [ADR DEVOPS 0011. Etapas básicas del flujo de trabajo para aplicaciones en la nube basadas en contenedores](../../../devops/doc/adr/DEVOPS-0011-etapas-basicas-del-flujo-de-trabajo-para-aplicaciones-en-la-nube-basadas-en-contenedores.md)
 
 ## Context
 

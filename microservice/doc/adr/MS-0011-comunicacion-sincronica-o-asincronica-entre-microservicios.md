@@ -1,7 +1,5 @@
 # ADR MS 0011. Comunicación sincrónica o asincrónica entre microservicios
 
-Date: 2022-08-19
-
 ## Keywords
 
 microservicio, comunicación, sincrónica, asincrónica, rest, amqp, mensajería.
@@ -13,6 +11,8 @@ Accepted
 References [ADR MS 0010. Tolerancia a fallas en comunicación sincrónica](MS-0010-tolerancia-a-fallas-en-comunicacion-sincronica.md)
 
 References [ADR MS 0012. Microservicios mínimamente acoplados](MS-0012-microservicios-minimamente-acoplados.md)
+
+Referenced by [ADR MSG 0012. Determinación de estilos de comunicaciones asincrónicas](../../../messaging/doc/adr/MSG-0012-determinacion-de-estilos-de-comunicaciones-asincronicas.md)
 
 ## Context
 
@@ -41,3 +41,4 @@ Usamos comunicación sincrónica por defecto, y favorecemos el uso asíncrono cu
 Requerimos, a la hora de implementar la comunicación sincrónica usando el protocolo REST, la definición de un artefacto (Interfaz API) que permita describir su contrato, documentar sus reglas y sus especificaciones. 
 
 Solicitamos, a la hora de implementar la comunicación asincrónica usando el protocolo AMQP, precisar la estructura del mensaje que es enviado del emisor al receptor, acordar la instancia de cola de mensajes a utilizar y seleccionar el motor de mensajería (message broker).
+

@@ -1,7 +1,5 @@
 # ADR MSG 0001. Actualizaciones asincrónicas mediante mensajes de comandos
 
-Date: 2022-08-22
-
 ## Keywords
 
 messaging, message, asincrónica, comando, mensaje, cola.

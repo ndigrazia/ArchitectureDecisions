@@ -1,7 +1,5 @@
 # ADR MSG 0005. Definición del tamaño de la cola de mensajería
 
-Date: 2022-08-24
-
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, tamaño.

@@ -9,3 +9,6 @@
 * [ADR MSG 0007. Monitoreo del procesamiento de mensajes asincronicos](doc/adr/MSG-0007-monitoreo-del-procesamiento-de-mensajes-asincronicos.md)
 * [ADR MSG 0008. Almacenamiento persistente y envió sincrónico del mensaje](doc/adr/MSG-0008-almacenamiento-persistente-y-envio-sincronico-del-mensaje.md)
 * [ADR MSG 0009. Informe explicito del consumo del mensaje](doc/adr/MSG-0009-informe-explicito-del-consumo-del-mensaje.md)
+* [ADR MSG 0010. Publicacion de eventos de integración](doc/adr/MSG-0010-publicacion-de-eventos.md)
+* [ADR MSG 0011. Propagación de observabilidad en mensajes](doc/adr/MSG-0011-propagacion-de-observabilidad-en-mensajes.md)
+* [ADR MSG 0012. Estilos de comunicaciones asincrónicas](doc/adr/MSG-0012-determinacion-de-estilos-de-comunicaciones-asincronicas.md)

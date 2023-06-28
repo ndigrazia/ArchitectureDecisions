@@ -1,7 +1,5 @@
 # ADR MSG 0003. Eliminación de mensajes basura encolados
 
-Date: 2022-08-23
-
 ## Keywords
 
 messaging, message, asincrónica, idempotente, mensaje, cola, basura, eliminación.
@@ -14,6 +12,10 @@ Referenced by [ADR MSG 0005. Definición del tamaño de la cola de mensajería](
 
 References [ADR MSG 0006. Creación de un procesador de mensajes basura encolados](MSG-0006-creacion-de-un-procesador-de-mensajes-basura-encolados.md)
 
+Referenced by [ADR FAAS 0004. Ejecución sincrónica de comandos sobre otras funciones](../../../function-as-a-service/doc/adr/FAAS-0004-ejecucion-sincronica-de-comandos-sobre-otras-funciones.md)
+
+Referenced by [ADR FAAS 0010. Webhook entrantes](../../../function-as-a-service/doc/adr/FAAS-0010-webhook-entrantes.md)
+
 ## Context
 
 Puede ocurrir que algunos de los mensajes almacenados en la cola de mensajes no se procesen correctamente debido al contenido del propio mensaje, haciendo que el mensaje retorne a la cola para otro intento de procesamiento (client acknowledge mode).
@@ -24,7 +26,7 @@ Cuando un mensaje permanece en la cola durante mucho tiempo debido a que no pued
 
 Detectamos y eliminamos mensajes basura dentro de la cola de mensajes asincrónicos, enviandolos a otra cola que contenga los mensajes no tratados. 
 
-Comúnmente, es llamada dead-letter a la cola que cumple el rol de almacenar mensajes no tratados.
+Comúnmente, es llamada dead-letter (cola de mensajes fallidos) a la cola que cumple el rol de almacenar mensajes no tratados.
 
 El consumidor o el propio sistema de mensajería (broker) es el responsable de enviar los mensajes no tratados a la cola dead-letter.
 

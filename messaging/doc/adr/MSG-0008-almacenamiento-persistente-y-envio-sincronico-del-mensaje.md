@@ -1,7 +1,5 @@
 # ADR MSG 0008. Almacenamiento persistente y envió sincrónico del mensaje
 
-Date: 2022-08-30
-
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, persistencia.
@@ -43,3 +41,4 @@ El productor espera hasta que el intermediario ha reconocido que el mensaje ha s
 Requerimos activar el mecanismo de almacenamiento persistente en la cola de mensajes y enviar sincrónicamente cada mensaje a la cola.
 
 Es importante definir el tiempo de espera del productor y el accionar en casos de no contar con una respuesta. Para mas detalle ver el documento de referencia de [Definición de timeouts y de reintentos demorados](#status)
+ 

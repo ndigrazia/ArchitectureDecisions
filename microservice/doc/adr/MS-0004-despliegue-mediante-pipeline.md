@@ -1,7 +1,5 @@
 # ADR MS 0004. Despliegue mediante pipeline
 
-Date: 2022-08-17
-
 ## Keywords
 
 microservicio, pipeline, despliegue, contenedor, fuente.
@@ -11,6 +9,8 @@ microservicio, pipeline, despliegue, contenedor, fuente.
 Accepted
 
 Referenced by [ADR MS 0003. Empaquetado del micro servicio como imagen de contenedor](MS-0003-empaquetado-del-microservicio-como-imagen-de-contenedor.md)
+
+References [ADR DEVOPS 0001. Adopción de un flujo de trabajo continuo para el desarrollo y mantenimiento de las aplicaciones en la nube](../../../devops/doc/adr/DEVOPS-0001-adopcion-de-un-flujo-de-trabajo-continuo-para-el-desarrollo-y-mantenimiento-de-las-aplicaciones-en-la-nube.md)
 
 ## Context
 
@@ -27,4 +27,3 @@ Al contar con un pipeline automatizado de despliegue se facilita la implementaci
 ## Consequences
 
 Requerimos el uso de un entorno de ejecución del pipeline de despliegue, la definición de las tareas del pipeline de despliegue y la determinación del momento de ejecución del pipeline de despliegue dentro del proceso de desarrollo de software.
-

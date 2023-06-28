@@ -1,7 +1,5 @@
 # ADR MSG 0007. Monitoreo del procesamiento de mensajes asincronicos
 
-Date: 2022-08-24
-
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, soporte, monitoreo, observabilidad.

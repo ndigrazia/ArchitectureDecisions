@@ -1,14 +1,12 @@
 # ADR MS 0005. Único repositorio de fuentes
 
-Date: 2022-08-17
-
 ## Keywords
 
 microservicio, repositorio, fuente, contenedor, código.
 
 ## Status
 
-Accepted
+Superceded by [ADR DEVOPS 0014. Único repositorio de fuentes para aplicaciones en la nube](../../../devops/doc/adr/DEVOPS-0014-unico-repositorio-de-fuentes-para-aplicaciones-en-la-nube.md)
 
 Referenced by [ADR MS 0003. Empaquetado del micro servicio como imagen de contenedor](MS-0003-empaquetado-del-microservicio-como-imagen-de-contenedor.md)
 
@@ -29,4 +27,3 @@ El código fuente es el mismo para una misma version, aunque pueden estar activa
 ## Consequences
 
 Requerimos el uso de un sistema de control de versiones, vincular el código fuente del microservicio a un solo repositorio, independiente de la cantidad de imágenes construidas o instancias ejecutadas en diferentes ambientes o dominios.
-
