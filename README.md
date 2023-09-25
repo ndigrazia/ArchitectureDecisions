@@ -21,4 +21,6 @@ El objetivo del presente documento es establecer las decisiones de arquitectura 
 8. [Multiple kubernetes clusters](multiple-kubernetes-clusters/README.md)
     
 9. [Function as a Service (FaaS)](function-as-a-service/README.md) 
+    
+10. [Containerizing](containerizing/README.md) 
  
