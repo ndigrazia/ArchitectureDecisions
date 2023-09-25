@@ -1,5 +1,7 @@
 # ADR CTR 0010. Utilización de imágenes provenientes de fuentes confiables
 
+Date: 2023-09-13
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, producción, base, fuente, vulnerabilidad, confiable.

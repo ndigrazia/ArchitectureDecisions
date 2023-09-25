@@ -1,5 +1,7 @@
 # ADR DEVOPS 0018. Crear alertas basadas en la información obtenida de la plataforma de flujo continuo
 
+Date: 2023-01-20
+
 ## Keywords
 
 devops, alerta, alarma, notificación, infraestructura, continuo, entrega, despliegue, flujo, proceso, evento.

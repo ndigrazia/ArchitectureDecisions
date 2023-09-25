@@ -1,5 +1,7 @@
 # ADR MS 0007. Reporte de métricas o telemetrías
 
+Date: 2022-08-18
+
 ## Keywords
 
 microservicio, métrica, telemetría, despliegue, soporte.

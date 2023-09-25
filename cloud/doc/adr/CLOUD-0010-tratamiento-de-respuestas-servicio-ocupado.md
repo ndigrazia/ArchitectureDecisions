@@ -1,5 +1,7 @@
 # ADR CLOUD 0010. Tratamiento de respuestas "servicio ocupado"
 
+Date: 2022-11-01
+
 ## Keywords
 
 cloud, integración, respuesta, recursos, servicios, ocupado.  

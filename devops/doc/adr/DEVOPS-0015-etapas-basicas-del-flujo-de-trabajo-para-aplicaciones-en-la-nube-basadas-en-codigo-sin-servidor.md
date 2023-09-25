@@ -1,5 +1,7 @@
 # ADR DEVOPS 0015. Etapas básicas del flujo de trabajo para aplicaciones en la nube basadas en código sin servidor
 
+Date: 2023-01-18
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, automático, código, sin servidor, serverless.

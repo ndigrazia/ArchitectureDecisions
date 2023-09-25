@@ -1,5 +1,7 @@
 # ADR FAAS 0013. Recopilar datos de transmisión continua
 
+Date: 2023-03-15
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, datos, recopilar, ETL, extracción, transformación, streaming, carga, caso uso.

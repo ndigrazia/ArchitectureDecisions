@@ -1,5 +1,7 @@
 # ADR CTR 0003. Creación de imágenes de contenedores productivas con dependencias de terceros productivas
 
+Date: 2023-08-30
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, librería, terceros, producción, dependencia. 

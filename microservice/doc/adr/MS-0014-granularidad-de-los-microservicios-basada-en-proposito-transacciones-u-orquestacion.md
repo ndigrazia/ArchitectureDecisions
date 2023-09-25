@@ -1,5 +1,7 @@
 # ADR MS 0014. Granularidad de los microservicios basada en propósito, transacciones u orquestación.
 
+Date: 2022-08-19
+
 ## Keywords
 
 microservicio, cohesion, simple propósito, contexto transaccional, orquestación, srp.

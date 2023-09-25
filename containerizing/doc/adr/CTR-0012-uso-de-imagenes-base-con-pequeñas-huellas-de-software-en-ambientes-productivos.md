@@ -1,5 +1,7 @@
 # ADR CTR 0012. Uso de imágenes base con pequeñas huellas de software en ambientes productivos 
 
+Date: 2023-09-21
+
 ## Keywords
 
 containerizing, container, imagen, crear, construir, contenedor, huella, base, determinística, pequeña. 

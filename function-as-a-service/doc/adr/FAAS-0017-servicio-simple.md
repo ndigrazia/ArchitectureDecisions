@@ -1,5 +1,7 @@
 # ADR FAAS 0017. Servicio simple
 
+Date: 2023-03-17
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, simple, caso uso.

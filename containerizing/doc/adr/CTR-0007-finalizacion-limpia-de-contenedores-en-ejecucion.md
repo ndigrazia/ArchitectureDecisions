@@ -1,5 +1,7 @@
 # ADR CTR 0007. Finalización limpia de contenedores en ejecución
 
+Date: 2023-09-07
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, producción, finalización, limpia, eventos, recepción, sistema operativo, orquestadores, cierre.

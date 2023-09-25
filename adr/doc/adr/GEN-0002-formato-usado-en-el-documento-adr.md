@@ -1,5 +1,7 @@
 # ADR GEN 0002. Formato usado en el documento ADR
 
+Date: 2023-05-10
+
 ## Keywords
 
 adr, log, decisión, registro, documento, formato.

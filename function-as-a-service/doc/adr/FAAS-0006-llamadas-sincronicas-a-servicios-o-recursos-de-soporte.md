@@ -1,5 +1,7 @@
 # ADR FAAS 0006. Llamadas sincrónicas a servicios o recursos de soporte
 
+Date: 2023-03-03
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, invocación, sincrónica, orquestador, orquestación.

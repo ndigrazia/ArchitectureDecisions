@@ -1,5 +1,7 @@
 # ADR DEVOPS 0019. Detección de construcciones sospechosas en archivos Dockerfile
 
+Date: 2023-02-15
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, imagen, automático, infraestructura, inmutable, dorada, imágenes.

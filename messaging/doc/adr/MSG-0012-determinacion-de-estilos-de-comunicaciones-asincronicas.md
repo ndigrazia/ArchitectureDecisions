@@ -1,5 +1,7 @@
 # ADR MSG 0012. Determinación de estilos de comunicaciones asincrónicas
 
+Date: 2022-12-12
+
 ## Keywords
 
 messaging, integración, message, asincrónica, mensaje, cola, evento, comunicación.

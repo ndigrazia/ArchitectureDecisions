@@ -1,5 +1,7 @@
 # ADR FAAS 0014. Integrar servicios mediante sondeo de estados
 
+Date: 2023-03-16
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, invocación, evento, integración, sondeo, estado, caso uso.

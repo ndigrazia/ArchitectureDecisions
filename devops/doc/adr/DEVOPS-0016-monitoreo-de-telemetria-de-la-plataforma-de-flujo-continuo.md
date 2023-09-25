@@ -1,5 +1,7 @@
 # ADR DEVOPS 0016. Monitoreo de telemetría de la plataforma de flujo continuo
 
+Date: 2023-01-19
+
 ## Keywords
 
 devops, monitoreo, automático, infraestructura, continuo, métrica, entrega, despliegue, flujo, proceso.

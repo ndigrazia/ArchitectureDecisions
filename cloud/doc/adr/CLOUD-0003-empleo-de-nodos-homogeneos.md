@@ -1,5 +1,7 @@
 # ADR CLOUD 0003. Empleo de nodos homogéneos
 
+Date: 2022-10-26
+
 ## Keywords
 
 cloud, escalamiento, horizontal, reversible, nodo, homogeneo.

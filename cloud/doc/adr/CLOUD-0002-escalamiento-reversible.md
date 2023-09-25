@@ -1,5 +1,7 @@
 # ADR CLOUD 0002. Escalamiento reversible
 
+Date: 2022-10-26
+
 ## Keywords
 
 cloud, escalamiento, horizontal, reversible, aplicación, diseño, nodo, desarrollo.

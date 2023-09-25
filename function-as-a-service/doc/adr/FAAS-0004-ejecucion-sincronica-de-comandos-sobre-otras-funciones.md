@@ -1,5 +1,7 @@
 # ADR FAAS 0004. Ejecución sincrónica de comandos sobre otras funciones
 
+Date: 2023-03-02
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, invocación, sincrónica, comando, ejecución.

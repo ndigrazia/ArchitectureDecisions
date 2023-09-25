@@ -1,5 +1,7 @@
 # ADR DEVOPS 0013. Escaneo de vulnerabilidades en imágenes doradas
 
+Date: 2023-01-06
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, aprovisionamiento, imagen, infraestructura, inmutable, dorada, vulnerabilidad, escaneo.

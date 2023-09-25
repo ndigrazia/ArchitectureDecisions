@@ -1,5 +1,7 @@
 # ADR MSG 0010. Publicación de eventos de integración
 
+Date: 2022-08-31
+
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, evento

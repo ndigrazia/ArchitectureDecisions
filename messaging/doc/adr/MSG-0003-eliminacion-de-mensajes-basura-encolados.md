@@ -1,5 +1,7 @@
 # ADR MSG 0003. Eliminación de mensajes basura encolados
 
+Date: 2022-08-23
+
 ## Keywords
 
 messaging, message, asincrónica, idempotente, mensaje, cola, basura, eliminación.

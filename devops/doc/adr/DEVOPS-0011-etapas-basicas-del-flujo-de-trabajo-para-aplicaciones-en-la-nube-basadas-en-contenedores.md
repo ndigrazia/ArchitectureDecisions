@@ -1,5 +1,7 @@
 # ADR DEVOPS 0011. Etapas básicas del flujo de trabajo para aplicaciones en la nube basadas en contenedores
 
+Date: 2022-12-29
+
 ## Keywords
 
 devops, microservicio, continuo, entrega, despliegue, flujo, proceso, etapas, automático, contenedor.

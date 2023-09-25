@@ -1,5 +1,7 @@
 # ADR CTR 0011. Prevención de fuga de información confidencial durante la descarga de librerías de terceros
 
+Date: 2023-09-19
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, producción, perdida, confidencial,  vulnerabilidad, confiable.

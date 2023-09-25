@@ -1,5 +1,7 @@
 # ADR FAAS 0020. Estrangulador
 
+Date: 2023-03-20
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, estrangulador, strangle, patrón.

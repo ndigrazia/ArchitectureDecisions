@@ -1,5 +1,7 @@
 # ADR DEVOPS 0017. Almacenamiento centralizado de los registros de la plataforma de flujo continuo
 
+Date: 2023-01-20
+
 ## Keywords
 
 devops, registro, log, infraestructura, continuo, entrega, despliegue, flujo, proceso, almacenamiento, centralizado, central.

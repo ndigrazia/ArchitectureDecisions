@@ -1,5 +1,7 @@
 # ADR CLOUD 0001. Escalamiento horizontal
 
+Date: 2022-10-24
+
 ## Keywords
 
 cloud, escalamiento, horizontal, aplicación, diseño, nodo, desarrollo.

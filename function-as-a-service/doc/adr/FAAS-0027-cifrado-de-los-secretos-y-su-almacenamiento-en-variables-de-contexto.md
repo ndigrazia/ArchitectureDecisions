@@ -1,5 +1,7 @@
 # ADR FAAS 0027. Cifrado de los secretos y su almacenamiento en variables de contexto
 
+Date: 2023-04-17
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, cifrado, secreto, recurso, clave, key, kms.

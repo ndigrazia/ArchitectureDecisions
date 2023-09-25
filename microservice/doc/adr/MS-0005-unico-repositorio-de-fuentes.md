@@ -1,5 +1,7 @@
 # ADR MS 0005. Único repositorio de fuentes
 
+Date: 2022-08-17
+
 ## Keywords
 
 microservicio, repositorio, fuente, contenedor, código.

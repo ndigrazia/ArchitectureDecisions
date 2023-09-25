@@ -1,5 +1,7 @@
 # ADR DEVOPS 0012. Despliegue y configuración declarativa de las aplicaciones en la nube basadas en contenedores
 
+Date: 2023-01-02
+
 ## Keywords
 
 devops, aprovisionamiento, entrega, despliegue, recurso, código, declarativo, contenedor, microservicio.

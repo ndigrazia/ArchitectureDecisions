@@ -1,5 +1,7 @@
 # ADR MULTIPLE-K8S 0002. Uso de soluciones de multiples clusteres de kubernetes
 
+Date: 2022-10-06
+
 ## Keywords
 
 redundancia, multi-cluster, alta disponibilidad, kubernetes.

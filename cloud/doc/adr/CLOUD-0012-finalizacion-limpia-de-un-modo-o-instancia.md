@@ -1,5 +1,7 @@
 # ADR CLOUD 0012. Finalización limpia de un modo o instancia
 
+Date: 2022-11-07
+
 ## Keywords
 
 cloud, tolerancia, falla, servicios, nodo, limpieza, limpia, finalización.

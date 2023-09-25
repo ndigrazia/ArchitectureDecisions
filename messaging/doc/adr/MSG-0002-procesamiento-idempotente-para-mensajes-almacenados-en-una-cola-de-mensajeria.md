@@ -1,5 +1,7 @@
 # ADR MSG 0002. Procesamiento idempotente para mensajes almacenados en una cola de mensajería
 
+Date: 2022-08-22
+
 ## Keywords
 
 messaging, message, asincrónica, idempotente, mensaje, cola.

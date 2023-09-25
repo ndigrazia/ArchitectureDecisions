@@ -1,5 +1,7 @@
 # ADR CLOUD 0008. Escalamiento horizontal de datos mediante su fragmentación
 
+Date: 2022-10-31
+
 ## Keywords
 
 cloud, fragmentación, escalamiento, horizontal. 

@@ -1,5 +1,7 @@
 # ADR DEVOPS 0006. Aprovisionamiento como código de los recursos de la infraestructura IT
 
+Date: 2022-12-22
+
 ## Keywords
 
 devops, aprovisionamiento, entrega, despliegue, recurso, código, declarativo.

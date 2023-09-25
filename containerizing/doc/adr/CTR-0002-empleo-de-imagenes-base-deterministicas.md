@@ -1,5 +1,7 @@
 # ADR CTR 0002. Empleo de imágenes base determinísticas
 
+Date: 2023-08-28
+
 ## Keywords
 
 containerizing, container, imagen, crear, construir, contenedor, etiqueta, base, versión, determinística. 

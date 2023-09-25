@@ -1,5 +1,7 @@
 # ADR DEVOPS 0021. Disponer de un manual de operaciones del sistema
 
+Date: 2023-04-20
+
 ## Keywords
 
 devops, runbook, manual, mantenimiento, operaciones.

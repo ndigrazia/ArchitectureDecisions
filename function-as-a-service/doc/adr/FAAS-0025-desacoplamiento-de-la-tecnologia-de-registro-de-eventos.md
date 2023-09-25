@@ -1,5 +1,7 @@
 # ADR FAAS 0025. Desacoplamiento de la tecnología de registro de eventos
 
+Date: 2023-03-22
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, evento, log, mensaje, registro, soporte.

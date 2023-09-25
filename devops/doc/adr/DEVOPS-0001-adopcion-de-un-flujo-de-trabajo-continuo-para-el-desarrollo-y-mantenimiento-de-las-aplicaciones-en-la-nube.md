@@ -1,5 +1,7 @@
 # ADR DEVOPS 0001. Adopción de un flujo de trabajo continuo para el desarrollo y mantenimiento de las aplicaciones en la nube
 
+Date: 2022-12-16
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso.

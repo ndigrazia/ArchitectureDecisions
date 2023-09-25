@@ -1,5 +1,7 @@
 # ADR MESH 0002. Envío de headers para trazabilidad
 
+Date: 2022-10-04
+
 ## Keywords
 
 mesh, sidecar, malla de servicios, trazabilidad.

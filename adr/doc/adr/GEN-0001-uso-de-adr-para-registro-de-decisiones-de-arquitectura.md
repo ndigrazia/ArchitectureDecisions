@@ -1,5 +1,7 @@
 # ADR GEN 0001. Uso de ADR para registro de decisiones de arquitectura
 
+Date: 2023-05-10
+
 ## Keywords
 
 adr, log, decisión, registro, documento.

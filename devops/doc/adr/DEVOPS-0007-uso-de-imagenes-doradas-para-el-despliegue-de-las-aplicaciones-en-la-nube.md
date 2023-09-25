@@ -1,5 +1,7 @@
 # ADR DEVOPS 0007. Uso de imágenes doradas para el despliegue de las aplicaciones en la nube
 
+Date: 2022-12-26
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, imagen, automático, infraestructura, inmutable, dorada, imágenes.

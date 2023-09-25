@@ -1,5 +1,7 @@
 # ADR FAAS 0016. Abanico (Fanning out)
 
+Date: 2023-03-17
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, fan out, fanning out, caso uso.

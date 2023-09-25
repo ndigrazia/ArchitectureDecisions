@@ -1,5 +1,7 @@
 # ADR CLOUD 0009. Detección de respuestas de "servicio ocupado"
 
+Date: 2022-11-01
+
 ## Keywords
 
 cloud, integración, respuesta, recursos, servicios, ocupado.  

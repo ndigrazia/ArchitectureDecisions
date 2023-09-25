@@ -1,5 +1,7 @@
 # ADR MSG 0004. Definición de timeouts y de reintentos demorados
 
+Date: 2022-08-23
+
 ## Keywords
 
 messaging, message, asincrónica, idempotente, mensaje, cola, reintento, demora, espera, tiempo.

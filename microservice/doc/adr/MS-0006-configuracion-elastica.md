@@ -1,5 +1,7 @@
 # ADR MS 0006. Configuración elástica
 
+Date: 2022-08-18
+
 ## Keywords
 
 microservicio, configuración, despliegue, elástica.

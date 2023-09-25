@@ -1,5 +1,7 @@
 # ADR MS 0004. Despliegue mediante pipeline
 
+Date: 2022-08-17
+
 ## Keywords
 
 microservicio, pipeline, despliegue, contenedor, fuente.

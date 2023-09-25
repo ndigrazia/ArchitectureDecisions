@@ -1,5 +1,7 @@
 # ADR MSG 0008. Almacenamiento persistente y envió sincrónico del mensaje
 
+Date: 2022-08-30
+
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, persistencia.

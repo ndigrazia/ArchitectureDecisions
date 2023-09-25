@@ -1,5 +1,7 @@
 # ADR MESH 0001. Uso de sidecar para acoplamiento operativo
 
+Date: 2022-10-04
+
 ## Keywords
 
 mesh, sidecar, malla de servicios.

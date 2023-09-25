@@ -1,5 +1,7 @@
 # ADR FAAS 0009. Invocación recursiva
 
+Date: 2023-03-09
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, invocación, recursiva, recursivo, recursión.

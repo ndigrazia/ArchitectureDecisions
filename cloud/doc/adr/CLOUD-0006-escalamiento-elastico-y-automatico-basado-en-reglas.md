@@ -1,5 +1,7 @@
 # ADR CLOUD 0006. Escalamiento elástico y automático basado en reglas
 
+Date: 2022-10-28
+
 ## Keywords
 
 cloud, escalamiento, horizontal, nodo, elástico, automático, reglas.

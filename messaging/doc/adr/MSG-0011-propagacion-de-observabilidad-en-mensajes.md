@@ -1,5 +1,7 @@
 # ADR MSG 0011. Propagación de observabilidad en mensajes
 
+Date: 2022-08-31
+
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, observabilidad

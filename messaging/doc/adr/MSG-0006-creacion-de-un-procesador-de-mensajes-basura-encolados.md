@@ -1,5 +1,7 @@
 # ADR MSG 0006. Creación de un procesador de mensajes basura encolados
 
+Date: 2022-08-24
+
 ## Keywords
 
 messaging, message, asincrónica, mensaje, cola, tratamiento, procesamiento, basura.

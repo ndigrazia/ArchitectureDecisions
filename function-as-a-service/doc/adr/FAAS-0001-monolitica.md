@@ -1,5 +1,7 @@
 # ADR FAAS 0001. Monolítica
 
+Date: 2023-02-27
+
 ## Keywords
 
 faas, serverless, función, sin servidor, monolítico, servicio, monolítica.

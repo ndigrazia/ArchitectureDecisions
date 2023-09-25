@@ -1,5 +1,7 @@
 # ADR FAAS 0019. Cortacircuitos
 
+Date: 2023-03-20
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, cortacircuitos, circuit breaker, patrón.

@@ -1,5 +1,7 @@
 # ADR DEVOPS 0009. Versionado semántico de las imágenes doradas
 
+Date: 2022-12-27
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, versionado, semántico, aprovisionamiento, imagen, infraestructura, inmutable, dorada.

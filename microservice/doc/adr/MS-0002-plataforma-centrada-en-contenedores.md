@@ -1,5 +1,7 @@
 # ADR MS 0002. Plataforma centrada en contenedores
 
+Date: 2022-08-16
+
 ## Keywords
 
 microservicio, entorno, contenedor, elástica, plataforma, orquestación, fuente.

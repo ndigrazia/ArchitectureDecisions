@@ -1,5 +1,7 @@
 # ADR MS 0012. Microservicios mínimamente acoplados
 
+Date: 2022-08-19
+
 ## Keywords
 
 microservicio, comunicación, sincrónica, asincrónica, acoplamiento.

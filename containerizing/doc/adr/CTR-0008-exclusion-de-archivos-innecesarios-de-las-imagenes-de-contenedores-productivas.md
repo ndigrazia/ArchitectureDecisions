@@ -1,5 +1,7 @@
 # ADR CTR 0008. Exclusión de archivos innecesarios de las imágenes de contenedores productivas
 
+Date: 2023-09-11
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, producción, sistema operativo, optimización.

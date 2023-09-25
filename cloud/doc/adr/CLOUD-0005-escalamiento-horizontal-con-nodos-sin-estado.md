@@ -1,5 +1,7 @@
 # ADR CLOUD 0005. Escalamiento horizontal con nodos sin estado
 
+Date: 2022-10-28
+
 ## Keywords
 
 cloud, escalamiento, horizontal, nodo, estado.

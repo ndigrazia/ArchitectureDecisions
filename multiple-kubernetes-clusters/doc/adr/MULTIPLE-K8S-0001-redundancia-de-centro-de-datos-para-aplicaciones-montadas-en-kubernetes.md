@@ -1,5 +1,7 @@
 # ADR MULTIPLE-K8S 0001. Redundancia de centro de datos para aplicaciones montadas en kubernetes
 
+Date: 2022-10-06
+
 ## Keywords
 
 redundancia, alta disponibilidad, centro de datos, zonas, kubernetes.

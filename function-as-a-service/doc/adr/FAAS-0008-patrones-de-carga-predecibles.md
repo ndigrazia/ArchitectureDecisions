@@ -1,5 +1,7 @@
 # ADR FAAS 0008. Patrones de carga predecibles
 
+Date: 2023-03-07
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, invocación, carga, predecible, patron.

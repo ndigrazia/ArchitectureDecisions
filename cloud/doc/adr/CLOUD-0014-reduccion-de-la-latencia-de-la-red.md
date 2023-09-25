@@ -1,5 +1,7 @@
 # ADR CLOUD 0014. Reducción de la latencia de la red
 
+Date: 2022-11-07
+
 ## Keywords
 
 cloud, nodo, cercanía, latencia, reducción.

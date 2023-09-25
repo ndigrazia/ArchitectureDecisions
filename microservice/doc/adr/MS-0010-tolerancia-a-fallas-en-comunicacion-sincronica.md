@@ -1,5 +1,7 @@
 # ADR MS 0010. Tolerancia a fallas en comunicación sincrónica
 
+Date: 2022-08-18
+
 ## Keywords
 
 microservicio, comunicación, sincrónica, falla, tolerancia, reintento, timeout, fallback, circuit breaker.

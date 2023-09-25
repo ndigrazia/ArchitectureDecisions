@@ -1,5 +1,7 @@
 # ADR DEVOPS 0010. Uso de repositorio de imágenes para almacenamiento de imágenes doradas
 
+Date: 2022-12-27
+
 ## Keywords
 
 devops, repositorio, entrega, despliegue, flujo, imagen, inmutable, dorada.

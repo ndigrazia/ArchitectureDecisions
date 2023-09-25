@@ -1,5 +1,7 @@
 # ADR DEVOPS 0004. Versionado semántico del flujo de tareas de trabajo y del aprovisionamiento de infraestructura
 
+Date: 2022-12-19
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, versionado, semántico, aprovisionamiento.

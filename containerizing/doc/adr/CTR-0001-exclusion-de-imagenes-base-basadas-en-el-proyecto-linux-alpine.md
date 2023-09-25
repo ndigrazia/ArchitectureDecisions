@@ -1,5 +1,7 @@
 # ADR CTR 0001. Exclusión de imágenes base basadas en el proyecto Linux Alpine
 
+Date: 2023-08-24
+
 ## Keywords
 
 containerizing, container, imagen, crear, construir, contenedor, base. 

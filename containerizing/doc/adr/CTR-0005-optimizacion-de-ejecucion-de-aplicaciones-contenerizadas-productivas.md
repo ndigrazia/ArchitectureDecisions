@@ -1,5 +1,7 @@
 # ADR CTR 0005. Optimización de ejecución de aplicaciones contenerizadas productivas
 
+Date: 2023-09-05
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, librería, terceros, producción, dependencia, optimización. 

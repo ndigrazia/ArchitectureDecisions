@@ -1,5 +1,7 @@
 # ADR FAAS 0007. Base de datos compartida
 
+Date: 2023-03-06
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, invocación, dato, compartida.

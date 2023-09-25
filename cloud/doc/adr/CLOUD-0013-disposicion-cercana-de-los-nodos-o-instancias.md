@@ -1,5 +1,7 @@
 # ADR CLOUD 0013. Disposición cercana de los nodos o instancias
 
+Date: 2022-11-07
+
 ## Keywords
 
 cloud, nodo, cercanía, latencia, reducción.

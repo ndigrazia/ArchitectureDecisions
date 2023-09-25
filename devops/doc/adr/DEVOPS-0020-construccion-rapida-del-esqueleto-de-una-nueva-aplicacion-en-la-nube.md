@@ -1,5 +1,7 @@
 # ADR DEVOPS 0020. Construcción rápida del esqueleto de una nueva aplicación en la nube
 
+Date: 2023-02-15
+
 ## Keywords
 
 devops, microservicio, contenedor, código, sin servidor, serverless.

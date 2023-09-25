@@ -1,5 +1,7 @@
 # ADR CLOUD 0004. Uso de nodos autónomos o independientes
 
+Date: 2022-10-26
+
 ## Keywords
 
 cloud, escalamiento, horizontal, reversible, nodo, independiente, autónomo.

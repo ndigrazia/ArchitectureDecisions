@@ -1,5 +1,7 @@
 # ADR DEVOPS 0008. Escalamiento automático de la plataforma de flujo continuo
 
+Date: 2022-12-26
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, escalamiento, automático.

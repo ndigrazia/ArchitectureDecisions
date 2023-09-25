@@ -1,5 +1,7 @@
 # ADR DEVOPS 0002. Declaración como código del flujo de trabajo usado en el desarrollo y el mantenimiento de las aplicaciones en la nube
 
+Date: 2022-12-16
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, código, declarativo.

@@ -1,5 +1,7 @@
 # ADR MS 0016. Asociar semánticamente cada imagen con una vista en el repositorio de código fuente
 
+Date: 2022-08-19
+
 ## Keywords
 
 microservicio, repositorio, fuente, código, soporte.

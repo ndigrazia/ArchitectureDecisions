@@ -1,5 +1,7 @@
 # ADR CLOUD 0007. Favorecimiento de consistencia eventual de datos
 
+Date: 2022-10-31 
+
 ## Keywords
 
 cloud, consistencia, eventual.

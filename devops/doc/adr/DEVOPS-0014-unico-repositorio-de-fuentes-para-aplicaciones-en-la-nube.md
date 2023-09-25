@@ -1,5 +1,7 @@
 # ADR DEVOPS 0014. Único repositorio de fuentes para aplicaciones en la nube
 
+Date: 2023-01-09
+
 ## Keywords
 
 devops, repositorio, fuente, contenedor, código, aplicación, nube.

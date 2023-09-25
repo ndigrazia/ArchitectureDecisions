@@ -1,5 +1,7 @@
 # ADR MS 0009. Registro de eventos
 
+Date: 2022-08-18
+
 ## Keywords
 
 microservicio, evento, log, mensaje, registro, soporte.

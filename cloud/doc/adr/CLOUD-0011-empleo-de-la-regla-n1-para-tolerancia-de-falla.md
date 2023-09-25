@@ -1,5 +1,7 @@
 # ADR CLOUD 0011. Empleo de la regla N+1 para tolerancia de falla
 
+Date: 2022-11-07
+
 ## Keywords
 
 cloud, tolerancia, falla, servicios.  

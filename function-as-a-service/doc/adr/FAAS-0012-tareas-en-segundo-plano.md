@@ -1,5 +1,7 @@
 # ADR FAAS 0012. Tareas en segundo plano
 
+Date: 2023-03-14
+
 ## Keywords
 
 faas, serverless, función, sin servidor, servicio, tarea, segundo plano, caso uso.

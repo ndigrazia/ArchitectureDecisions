@@ -1,5 +1,7 @@
 # ADR CTR 0009. Escaneo de vulnerabilidades de imágenes de contenedores
 
+Date: 2023-09-13
+
 ## Keywords
 
 containerizing, container, imagen, uso, contenedor, producción, escaneo, vulnerabilidad.

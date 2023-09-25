@@ -1,5 +1,7 @@
 # ADR DEVOPS 0005. Uso de infraestructura inmutable para soportar la plataforma de flujo continuo
 
+Date: 2022-12-26
+
 ## Keywords
 
 devops, continuo, entrega, despliegue, flujo, proceso, etapas, automático, infraestructura, imagen, inmutable.
