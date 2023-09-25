@@ -10,6 +10,8 @@ containerizing, container, imagen, uso, contenedor, producción, base, fuente, v
 
 Accepted
 
+Referenced by [ADR CTR 0002. Empleo de imágenes base determinísticas](CTR-0002-empleo-de-imagenes-base-deterministicas.md)
+
 ## Context
 
 Empleamos imágenes de contenedores (imágenes base) como punto de partida de nuestro proceso de creación de nuevas imágenes. También, las usamos directamente como soporte funcional de nuestras aplicaciones. Como vemos, independientemente del caso, estas imágenes constituyen un elemento fundamental del proceso de seguridad que permite mitigar sus vulnerabilidades.

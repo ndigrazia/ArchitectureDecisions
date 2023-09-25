@@ -10,6 +10,8 @@ containerizing, container, imagen, uso, contenedor, producción, perdida, confid
 
 Accepted
 
+References [ADR CTR 0003. Creación de imágenes de contenedores productivas con dependencias de terceros productivas](CTR-0003-creacion-de-imagenes-de-contenedores-productivas-con-dependencias-de-terceros-productivas.md)
+
 ## Context
 
 Durante el proceso de construcción de la imagen nuestros contenedores pueden requerir de funcionalidades exteriorizadas en librerías o en paquetes de terceros. Existe la posibilidad que estas dependencias, que constituirán nuestra imagen, se encuentren alocadas en repositorios (maven, npm, etc.) protegidos mediante clave. En estos casos, necesitamos emplear un mecanismo para disponibilizar dichas claves durante el proceso de construcción y así, permitir las descargas de sus dependencias.

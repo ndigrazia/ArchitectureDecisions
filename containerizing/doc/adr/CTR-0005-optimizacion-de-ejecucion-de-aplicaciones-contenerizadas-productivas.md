@@ -10,6 +10,8 @@ containerizing, container, imagen, uso, contenedor, librería, terceros, producc
 
 Accepted
 
+References [ADR CTR 0003. Creación de imágenes de contenedores productivas con dependencias de terceros productivas](CTR-0003-creacion-de-imagenes-de-contenedores-productivas-con-dependencias-de-terceros-productivas.md)
+
 ## Context
 
 Rara vez desarrollamos todo el software de nuestras aplicaciones. Generalmente nos apoyamos de funcionalidades ofrecidas por paquetes de terceros mediante bibliotecas y frameworks. Es posible que las funcionalidades brindadas por terceros cuenten con optimizaciones en los diferentes escenarios o ambientes (desarrollo, testing o producción) de ejecución de la aplicación.

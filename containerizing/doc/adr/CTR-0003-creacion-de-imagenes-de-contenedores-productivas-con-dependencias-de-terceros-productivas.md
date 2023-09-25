@@ -10,6 +10,10 @@ containerizing, container, imagen, uso, contenedor, librería, terceros, producc
 
 Accepted
 
+Referenced by [ADR CTR 0005. Optimización de ejecución de aplicaciones contenerizadas productivas](CTR-0005-optimizacion-de-ejecucion-de-aplicaciones-contenerizadas-productivas.md)
+
+Referenced by [ADR CTR 0011. Prevención de fuga de información confidencial durante la descarga de librerías de terceros](CTR-0011-prevencion-de-fuga-de-informacion-confidencial-durante-la-descarga-de-librerias-de-terceros.md)
+
 ## Context
 
 Durante la construcción de la imagen de contenedor incluimos herramientas o librerías de terceros como medio de soporte de las funcionalidades del servicio ofrecido por el contenedor. Al instalar estos componentes de terceros podemos incluir ciertas dependencias que no son requeridas para su funcionamiento en producción como por ejemplo, librerías usadas durante su desarrollo o en las fases de pruebas. 

@@ -10,6 +10,8 @@ containerizing, container, imagen, crear, construir, contenedor, etiqueta, base,
 
 Accepted
 
+References [ADR CTR 0010. Utilización de imágenes provenientes de fuentes confiables](CTR-0010-utilizacion-de-imagenes-provenientes-de-fuentes-confiables.md)
+
 ## Context
 
 El proceso de construcción de imágenes de contenedores inicia generalmente con imágenes base sobre la cuales realizamos ciertas acciones que dan como resultado imágenes finales adaptadas a nuestras necesidades. Pero, ¿Cómo garantizamos que estamos partiendo de una imagen consistente y determinística? Es decir, que nuestro proceso de construcción es un proceso que parte de una imagen conocida que confía en que la imagen no cambia.

@@ -10,6 +10,8 @@ containerizing, container, imagen, uso, contenedor, producción, recepción, eve
 
 Accepted
 
+Referenced by [ADR CTR 0007. Finalización limpia de contenedores en ejecución](CTR-0007-finalizacion-limpia-de-contenedores-en-ejecucion.md)
+
 ## Context
 
 La fase siguiente a la construcción de la imagen de contenedor es registrarla en un servidor de registro (container image registry) el cual, servirá de punto de partida para la ejecución de la imagen dentro de un motor de orquestación (Docker Swarm, Kubernetes, etc.). 

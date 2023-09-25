@@ -10,6 +10,8 @@ containerizing, container, imagen, uso, contenedor, producción, finalización, 
 
 Accepted
 
+References [ADR CTR 0006. Recepción de eventos del sistema operativo en el proceso que ejecuta en el contenedor](CTR-0006-recepcion-de-eventos-del-so-en-el-proceso-que-ejecuta-en-el-contenedor.md)
+
 ## Context
 
 Cuando el proceso (o la aplicación) que corre en el contenedor es capaz de recibir las señales enviadas desde el motor de orquestación puede actuar en consecuencia. En tal caso, si una señal de interrupción (SIGINT) es recibida, puede provocar la finalización abrupta del proceso, causando que los usuarios conectados al mismo sean desconectados inmediatamente, afectando su experiencia. 
