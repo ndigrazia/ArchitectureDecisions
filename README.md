@@ -3,9 +3,9 @@
 ## Tabla de Contenidos
 
 - [Tabla de Contenidos](#tabla-de-contenidos)
-- [Objetivo](#objetivo)
-- [Alcance](#alcance)
-- [Architectural Decision Records](#architectural-decision-records)
+    - [Objetivo](#objetivo)
+    - [Alcance](#alcance)
+    - [Architectural Decision Records](#architectural-decision-records)
     
 ## Objetivo
 
