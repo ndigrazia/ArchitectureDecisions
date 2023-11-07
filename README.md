@@ -7,7 +7,7 @@
 - [Alcance](#alcance)
 - [Architectural Decision Records](#architectural-decision-records)
     
-## Objetivo:
+## Objetivo
 
 Documentación y Rastreo: El principal objetivo de un ADR es documentar de manera clara y concisa las decisiones arquitectónicas tomadas en el desarrollo de un sistema de software. Esto permite rastrear el por qué, el qué y el cuándo de cada decisión importante.
 
@@ -15,7 +15,7 @@ Comunicación: Facilitar la comunicación y la comprensión de las decisiones en
 
 Transparencia: Promover la transparencia en el proceso de toma de decisiones arquitectónicas, de modo que todos los involucrados tengan acceso a la información necesaria para entender y cuestionar las elecciones hechas.
 
-## Alcance:
+## Alcance
 
 Decisiones Arquitectónicas Relevantes: Los ADR se centran en decisiones arquitectónicas significativas que afectan la estructura, diseño y comportamiento del sistema de software. Estas decisiones suelen ser críticas para el éxito del proyecto.
 
