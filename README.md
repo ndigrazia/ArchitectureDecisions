@@ -2,7 +2,7 @@
 
 ## Tabla de Contenidos
 
-- [Table of Contents](#tabla-de-contenidos)
+- [Tabla de Contenidos](#tabla-de-contenidos)
 - [Objetivo](#objetivo)
 - [Alcance](#alcance)
 - [Architectural Decision Records](#architectural-decision-records)
