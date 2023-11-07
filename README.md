@@ -1,10 +1,10 @@
 ![image info](./imagen.png)
 
-# Architecture Decisions
+# Objetivo
 
 El objetivo del presente documento es establecer las decisiones de arquitectura a ser tenidas en cuenta durante el proceso de desarrollo.
 
-## Architecture Decision Records
+## Registros
 
 1. [Adr](adr/README.md)
      
