@@ -1,4 +1,4 @@
-![image info](./imagen.png)
+![image info](./imagen.png){:.centered}
 
 ## Tabla de Contenidos
 
