@@ -1,3 +1,5 @@
+![image info](./imagen.png)
+
 # Architecture Decisions
 
 El objetivo del presente documento es establecer las decisiones de arquitectura a ser tenidas en cuenta durante el proceso de desarrollo.
