@@ -6,9 +6,6 @@
 - [Objetivo](#objetivo)
 - [Alcance](#alcance)
 - [Architectural Decision Records](#architectural-decision-records)
-    - [Adr](#adr)
-    - [Platform](#platform)
-    - [Cloud](#cloud)
     
 ## Objetivo
 
@@ -34,21 +31,21 @@ En resumen, un ADR tiene como objetivo documentar, comunicar y justificar las de
 
 ## Architectural Decision Records
 
-###  [Adr](adr/README.md)
+1.  [Adr](adr/README.md)
      
-### [Platform](platform/README.md)
+2. [Platform](platform/README.md)
    
-### [Cloud](cloud/README.md)
+3. [Cloud](cloud/README.md)
    
-### [Development & Operations (DevOps)](devops/README.md)
+4. [Development & Operations (DevOps)](devops/README.md)
    
-### [Microservices](microservice/README.md)
+5. [Microservices](microservice/README.md)
    
-###  [Messaging](messaging/README.md)
+6.  [Messaging](messaging/README.md)
    
-### [Mesh](mesh/README.md)
+7. [Mesh](mesh/README.md)
     
-### [Multiple kubernetes clusters](multiple-kubernetes-clusters/README.md)
+8. [Multiple kubernetes clusters](multiple-kubernetes-clusters/README.md)
     
 9. [Function as a Service (FaaS)](function-as-a-service/README.md) 
     
