@@ -27,8 +27,6 @@ Consecuencias y Estado: Los ADR también deben discutir las consecuencias de la 
 
 Historial y Evolución: Los ADR a menudo se mantienen en un historial, lo que significa que se actualizan a medida que evoluciona el proyecto y se toman nuevas decisiones. Esto permite seguir la evolución de las decisiones a lo largo del tiempo.
 
-En resumen, un ADR tiene como objetivo documentar, comunicar y justificar las decisiones arquitectónicas clave en el desarrollo de software, centrándose en proporcionar contexto, razones y consecuencias, y tiene un alcance específico que se enfoca en las decisiones más relevantes y significativas para el proyecto.
-
 ## Architectural Decision Records
 
 1.  [Adr](adr/README.md)
