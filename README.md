@@ -1,5 +1,7 @@
 ![image info](./imagen.png)
 
+Un documento ADR tiene como objetivo documentar, comunicar y justificar las decisiones arquitectónicas clave en el desarrollo de software, centrándose en proporcionar contexto, razones y consecuencias, y tiene un alcance específico que se enfoca en las decisiones más relevantes y significativas para el proyecto.
+
 ## Tabla de Contenidos
 
 - [Tabla de Contenidos](#tabla-de-contenidos)
