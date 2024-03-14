@@ -50,4 +50,6 @@ Historial y Evolución: Los ADR a menudo se mantienen en un historial, lo que si
 9. [Function as a Service (FaaS)](function-as-a-service/README.md) 
     
 10. [Containerizing](containerizing/README.md) 
+
+11. [GitOps](gitops/README.md) 
  
